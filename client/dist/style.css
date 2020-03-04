@@ -1,0 +1,53 @@
+/* .CategoryPath {
+    color: #767676;
+    font-family: "Amazon Ember", Arial, sans-serif;
+    font-size: 12px;
+    line-height: 14px;
+    margin-bottom: 16px;
+}
+.category-link {
+    cursor: pointer;
+}
+.category-link:link {
+    color: #767676;
+    font-family: "Amazon Ember", Arial, sans-serif;
+    font-size: 12px;
+    line-height: 14px;
+    text-decoration: none;
+}
+.category-link:hover {
+    color: #ff6600;
+    text-decoration: underline;
+}
+.ProductTitle {
+    color: #111111;
+    font-family: "Amazon Ember", Arial, sans-serif;
+    font-size: 21px;
+    font-weight: 400
+}
+.vendor-link:link {
+    color: #0066C0;
+    font-family: "Amazon Ember", Arial, sans-serif;
+    font-size: 13px;
+    text-decoration: none
+}
+.vendor-link:hover {
+    color: #ff6600;
+    font-family: "Amazon Ember", Arial, sans-serif;
+    text-decoration: underline
+} */
+.photogallery {
+    display: grid;
+    grid-template-areas: "main picture", "side pictures";
+    grid-template-rows: side pictures, ;
+    grid-auto-columns: ;
+}
+.images {
+    grid-row: 1 / span 2;
+    grid
+    display: grid;
+    margin-left: auto;
+    margin-right: auto;
+    height: 10px;
+    width: 50px;
+}
