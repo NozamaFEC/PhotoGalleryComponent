@@ -28,10 +28,12 @@ Over the course of 2-weeks, our team of 7 developers worked to make a mock Amazo
   
 ## Video Demo / Screen shot walkthrough of the app 
 
-    ![Overall component](file:///Users/polisaccount/Desktop/Screen%20Shot%202020-03-09%20at%2011.30.52%20AM.png)
+    <p align="center">
+    <img src="https://fecphotogallery.s3.us-east-2.amazonaws.com/Screen+Shot+2020-03-09+at+11.31.05+AM.png">
     * Basic render of the imagebox component upon initial load of item detail page.
-    ![single image clicked on] (file:///Users/polisaccount/Desktop/Screen%20Shot%202020-03-09%20at%2011.31.05%20AM.png)
+    <img src="https://fecphotogallery.s3.us-east-2.amazonaws.com/Screen+Shot+2020-03-09+at+11.30.52+AM.png">
     * When am image is clicked on, render of how the view will change to view image over the item detail page.
+    </p>
   
 ## How does the app work?
 
